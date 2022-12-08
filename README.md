@@ -1,3 +1,5 @@
+Jetzt auch als Addon, siehe: https://github.com/anveno/fr_modulepreview
+
 # module_select
 Redaxo Modul Auswahl erweitert
 
